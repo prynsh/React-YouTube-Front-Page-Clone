@@ -1,6 +1,6 @@
 # YouTube Clone
 
-![YouTube Clone Screenshot](./clone.png)
+![YouTube Clone Screenshot](./youtube_clone.png)
 
 ## Description
 
