@@ -1,27 +1,28 @@
-# React + TypeScript + Vite
+# YouTube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![YouTube Clone Screenshot](./screenshot.png)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a clone of YouTube built using React, Tailwind CSS, and TypeScript. It aims to replicate the core features and functionalities of YouTube, such as browsing videos, searching, and playing videos.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Browse Videos:** Users can browse through a collection of videos.
+- **Search Videos:** Users can search for videos using keywords.
+- **Watch Videos:** Users can watch videos within the application.
+- **Responsive Design:** The application is responsive and works seamlessly across different screen sizes.
 
-- Configure the top-level `parserOptions` property like this:
+## Technologies Used
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+- **React:** Used for building the user interface components and managing the application state.
+- **Tailwind CSS:** Utilized for styling the components and creating a modern UI.
+- **TypeScript:** Enhances code quality and provides better developer experience with static typing.
+- **YouTube API:** Integrated the YouTube API for fetching video data and playback.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/youtube-clone.git
