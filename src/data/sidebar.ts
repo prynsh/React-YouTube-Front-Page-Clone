@@ -1,33 +1,33 @@
 export const subscriptions = [
   {
-    channelName: "Fireship",
-    id: "Fireship",
+    channelName: "Harkirat Singh",
+    id: "HarkiratSingh",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+      "https://yt3.ggpht.com/MeY_fGNrjVLV0PVOBN7dRWzMBS0y41YGm55LOaJ02cXV82a7Np9pYxxhHFqdYdncEy1I2cYR=s68-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Caleb Curry",
-    id: "CalebCurry",
+    channelName: "Seedhe Maut",
+    id: "SeedheMaut",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKbpSojje_-tkBQecNtFuPdSCrg3ZT0FhaYjln9k0g=s176-c-k-c0x00ffffff-no-rj",
+      "https://yt3.ggpht.com/ytc/AIdro_kicc20plS1itNki_iJvr3nrvPNKh-EJAWHnz0Qh0AB=s88-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Web Dev Simplified",
-    id: "WebDevSimplified",
+    channelName: "Josh tried Coding",
+    id: "JoshtriedCoding",
     imgUrl:
-      "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+      "https://yt3.ggpht.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s68-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Kevin Powell",
-    id: "KevinPowell",
+    channelName: "Programming with Mosh",
+    id: "ProgrammingwithMosh",
     imgUrl:
-      "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+      "https://yt3.ggpht.com/ebu9ZksIXw0tUWBZd6rtk-It8VGSk8AdfSI_eGR-fl6WGet9LnVPngNQCmjdLJeGXpuylwYInQ=s68-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Sonny Sangha",
-    id: "SonnySangha",
+    channelName: "Clash of Clans",
+    id: "ClashofClans",
     imgUrl:
-      "https://yt3.ggpht.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s68-c-k-c0x00ffffff-no-rj",
+      "https://yt3.ggpht.com/sKnSDOlMiUodnrAS1mBy61M7WqvgplLAzlmAox29S_fw9r6f04VAH-GF7jO8x_PDAx0WkDKD=s88-c-k-c0x00ffffff-no-rj",
   },
   {
     channelName: "Traversy Media",
