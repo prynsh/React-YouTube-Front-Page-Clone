@@ -22,12 +22,12 @@ import {
     Podcast,
   } from "lucide-react"
   import { Children, ElementType, ReactNode, useState } from "react"
-  import { Button, buttonStyles } from "../components/Buttons"
+  import { Button, buttonStyles } from "../components/Button"
   import { twMerge } from "tailwind-merge"
   import { playlists, subscriptions } from "../data/sidebar"
   import { useSidebarContext } from "./SideBarContext"
   import { PageHeaderFirstSection } from "./PageHeader"     
-import React from "react"
+
   
   export function Sidebar() {
     const { isLargeOpen, isSmallOpen, close } = useSidebarContext()
