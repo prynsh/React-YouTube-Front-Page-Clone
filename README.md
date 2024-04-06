@@ -24,8 +24,8 @@ This project is a clone of YouTube built using React, Tailwind CSS, and TypeScri
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/youtube-clone.git
+ ```bash
+ git clone https://github.com/yourusername/youtube-clone.git
    ```
 2.Navigate to the project directory:
    ```bash
